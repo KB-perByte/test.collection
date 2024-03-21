@@ -1,2 +1,3 @@
 # test.collection
-test.collection
+
+test.collections
